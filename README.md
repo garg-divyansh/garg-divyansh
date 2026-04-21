@@ -1,5 +1,4 @@
-# 💻 About me
----
+# 👨🏻‍💻 About me
 
 I am a Year 1 Computer Engineering student at the National University of Singapore, interested in building systems that solve real-world problems. I have experience across software development, systems programming, and embedded technologies, with hands-on work involving Arduino, Raspberry Pi, and ROS. I enjoy working at the intersection of software and hardware, particularly in scalable systems and backend development. I am always eager to learn, collaborate, and contribute to meaningful engineering projects.
 
