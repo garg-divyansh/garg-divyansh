@@ -1,8 +1,6 @@
-## hey! myself, divyansh 👋🏻
+## 💻 About me
 
-I am an Y1, Computer Engineering student at the National University of Singapore. I like building systems that solve real-world problems, and have worked on a number of embeddded systems projects.
-
-### 🛠️ tech stack
+I am a Year 1 Computer Engineering student at the National University of Singapore, interested in building systems that solve real-world problems. I have experience across software development, systems programming, and embedded technologies, with hands-on work involving Arduino, Raspberry Pi, and ROS. I enjoy working at the intersection of software and hardware, particularly in scalable systems and backend development. I am always eager to learn, collaborate, and contribute to meaningful engineering projects.
 
 ### 🛠️ tech stack
 
@@ -11,16 +9,13 @@ I am an Y1, Computer Engineering student at the National University of Singapore
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
