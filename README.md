@@ -26,6 +26,7 @@ I am a Year 1 Computer Engineering student at the National University of Singapo
 #### 🤖 Embedded & Robotics
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 <!--
 **garg-divyansh/garg-divyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
