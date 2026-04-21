@@ -1,32 +1,29 @@
 ## hey! myself, divyansh 👋🏻
 
-I am an Y1, Computer Engineering student at the National University of Singapore. I like building systems that solve real-world problems.
+I am an Y1, Computer Engineering student at the National University of Singapore. I like building systems that solve real-world problems, and have worked on a number of embeddded systems projects.
 
 ### 🛠️ tech stack
 
-#### 💻 languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+### 🛠️ tech stack
 
-#### ⚙️ frameworks & libraries
-![Django](https://img.shields.io/badge/Django-0C4B33?logo=django&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🗄️ databases
-![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### 🧰 tools & platforms
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-#### 🤖 hardware & robotics
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 #### 🧠 concepts
 ![Systems Engineering](https://img.shields.io/badge/Systems%20Engineering-6A5ACD?logoColor=white)
