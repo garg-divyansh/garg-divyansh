@@ -1,4 +1,8 @@
-## Hi there 👋
+## hey! myself, divyansh 👋🏻
+
+I am an Y1, Computer Engineering student at the National University of Singapore. I like building systems that solve real-world problems.
+
+###🛠️ tech stack
 
 <!--
 **garg-divyansh/garg-divyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
