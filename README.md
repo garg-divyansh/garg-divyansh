@@ -2,6 +2,8 @@
 
 I am a Year 1 Computer Engineering student at the National University of Singapore, interested in building systems that solve real-world problems. I have experience across software development, systems programming, and embedded technologies, with hands-on work involving Arduino, Raspberry Pi, and ROS. I enjoy working at the intersection of software and hardware, particularly in scalable systems and backend development. I am always eager to learn, collaborate, and contribute to meaningful engineering projects.
 
+- 🔭 I’m currently working on [NUSphere (Orbital 2026)](https://github.com/The-Commit-Crew/NUSphere)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garg-divyansh/)
 
 ## 🛠️ Tech Stack
@@ -12,8 +14,13 @@ I am a Year 1 Computer Engineering student at the National University of Singapo
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 #### ⚙️ Tools & Systems
